@@ -5,6 +5,5 @@ En esta carpeta se realizaran los algoritmos de Busqueda de Grafos la cual abord
 · Búsqueda Informada (Heurísticas)
 · Algoritmos Genéticos
 · Satisfacción de Restricciones
-- Juegos
 - Utilidad y Toma de Decisiones
 - Aprendizaje por Refuerzo
